@@ -1,0 +1,5 @@
+# Self Evaluation - Arrays
+1. **How confident do you feel with the content on Arrays so far?** I'm feelling pretty confident with arrays at this point but not entirely confident with Array methods! I understand on a very surface level of what the 5 that I looked at today do, but context on their use cases would be helpful to help it stick! 
+1. **Is there any additional learning you need or want to do before moving to the next lesson?** I would really like to practice more with these 5 methods just to understand them better and look into use cases and different implementations. 
+1. **What questions do you have about arrays?**
+- Is there any point where you would need to break out an array due an overly large number of elements? Would it affect the load speed of the front end or the time it takes to pull data on the backend? 
