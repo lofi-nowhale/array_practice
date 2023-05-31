@@ -17,3 +17,6 @@ has_graduated.unshift(true, false)
 # Index positions indicate where in the index a certain element is! Its important to note that index counting starts at 0! So if we are looking for index position 2 of the "pets" array, we would get "Marcy".
 puts pets[2]
 
+# drop method will drop the first (n) number of elements from the specified array and will return the remaining elements in that array!
+menu_prices.drop(2)
+
