@@ -13,3 +13,7 @@ menu_prices.shift
 
 # This will add the elements to the beginning of the array
 has_graduated.unshift(true, false)
+
+# Index positions indicate where in the index a certain element is! Its important to note that index counting starts at 0! So if we are looking for index position 2 of the "pets" array, we would get "Marcy".
+puts pets[2]
+
